@@ -9,14 +9,6 @@
 
 ---
 
-## 🛠️ Skills & Tools
-
-- **Programming Languages:** C, C++, Go
-- **DevOps & Systems:** Linux (Arch), Shell scripting, Systems programming
-- **Competitive Programming:** Problem solving, algorithm design
-
----
-
 ## 🚀 Highlighted Projects
 
 ### [cp-template](https://github.com/labib0x0hunter/cp-template)
@@ -30,7 +22,7 @@
 ## 🤖 Quick Facts
 
 - Favorite OS: **Arch Linux**
-- Editor: (Add if you have a favorite—Vim, VS Code, etc.)
+- Editor: Neo Vim
 - Always learning, always building!
 
 ---
