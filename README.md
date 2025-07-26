@@ -2,7 +2,7 @@
 
 🎓 **Student | Competitive Programmer | System Dev Enthusiast**
 
-- 🌟 Passionate about **DevOps**, **Linux**, and **low-level system programming**
+- 🌟 Passionate about **DevOps**, **Linux**, and **Low-Level System Programming**
 - 🧑‍💻 Languages: **C**, **C++**, **Go**
 - 🖥️ Proud Arch Linux user
 - 🏆 Active in competitive programming challenges
