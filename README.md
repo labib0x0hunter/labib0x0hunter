@@ -9,7 +9,7 @@
 
 ---
 
-## 🚀 Highlighted Projects
+## 🚀 Highlighted Repositories
 
 ### [cp-template](https://github.com/labib0x0hunter/cp-template)
 > My go-to template for competitive programming—speed, efficiency, and reliability.
