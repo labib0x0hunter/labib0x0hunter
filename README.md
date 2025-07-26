@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hi there, I'm Labib! 👋
 
-<!--
-**labib0x0hunter/labib0x0hunter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Student | Competitive Programmer | System Dev Enthusiast**
 
-Here are some ideas to get you started:
+- 🌟 Passionate about **DevOps**, **Linux**, and **low-level system programming**
+- 🧑‍💻 Languages: **C**, **C++**, **Go**
+- 🖥️ Proud Arch Linux user
+- 🏆 Active in competitive programming challenges
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Skills & Tools
+
+- **Programming Languages:** C, C++, Go
+- **DevOps & Systems:** Linux (Arch), Shell scripting, Systems programming
+- **Competitive Programming:** Problem solving, algorithm design
+
+---
+
+## 🚀 Highlighted Projects
+
+### [cp-template](https://github.com/labib0x0hunter/cp-template)
+> My go-to template for competitive programming—speed, efficiency, and reliability.
+
+### [system programming](https://github.com/labib0x0hunter/system-programming)
+> Exploring the depths of system-level development with C, C++, and Linux.
+
+---
+
+## 🤖 Quick Facts
+
+- Favorite OS: **Arch Linux**
+- Editor: (Add if you have a favorite—Vim, VS Code, etc.)
+- Always learning, always building!
+
+---
+
+## 📫 Let's Connect
+
+<!-- Add your social links here (LinkedIn, Twitter, etc.) if you want! -->
+
+---
+
+> “Sudo make me a sandwich.” 🥪
