@@ -1,4 +1,4 @@
-# Hi there, I'm Labib! 👋
+# Hello explorer, I'm **Labib Al Faisal**. 👋
 
 🎓 **Student | Competitive Programmer | System Dev Enthusiast**
 
