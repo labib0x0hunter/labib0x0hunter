@@ -1,8 +1,8 @@
 # Hello explorer, I'm **Labib Al Faisal**. 👋
 
-🎓 **Student | Competitive Programmer | System Dev Enthusiast**
+🎓 **Student | Competitive Programmer | System Dev Enthusiast | Exploit Enthusiast**
 
-- 🌟 Passionate about **DevOps**, **Linux**, and **Low-Level System Programming**
+- 🌟 Passionate about **DevOps**, **Linux**, and **Programming**
 - 🧑‍💻 Languages: **C**, **C++**, **Go**
 - 🖥️ Proud Arch Linux user
 - 🏆 Active in competitive programming challenges
