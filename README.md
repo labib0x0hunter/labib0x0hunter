@@ -24,6 +24,7 @@
 - Favorite OS: **Arch Linux**
 - Editor: Neo Vim
 - Always learning, always building!
+- Curious HACKER !!
 
 ---
 
