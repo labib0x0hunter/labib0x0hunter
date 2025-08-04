@@ -12,7 +12,7 @@
 ## 🚀 Highlighted Repositories
 
 ### [Competitive-Programming](https://github.com/labib0x0hunter/Competitive-Programming)
-> My go-to template and notes for competitive programming—speed, efficiency, and reliability.
+> My go-to templates and notes for competitive programming—speed, efficiency, and reliability.
 
 ### [system programming](https://github.com/labib0x0hunter/system-programming)
 > Exploring the depths of system-level development with C, C++, and Linux.
