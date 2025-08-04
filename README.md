@@ -32,6 +32,7 @@
 
 <!-- Add your social links here (LinkedIn, Twitter, etc.) if you want! -->
 > [Portfolio](https://labib0x0hunter.netlify.app/)
+> [CodeCrafters](https://app.codecrafters.io/users/labib0x0hunter)
 
 ---
 
