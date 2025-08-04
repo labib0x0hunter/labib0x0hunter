@@ -22,9 +22,9 @@
 ## 🤖 Quick Facts
 
 - Favorite OS: **Arch Linux**
-- Editor: Neo Vim
-- Always learning, always building!
-- Curious HACKER !!
+- Editor: **Neo Vim**
+- Always **learning**, always **building!**
+- Curious **HACKER !!**
 
 ---
 
