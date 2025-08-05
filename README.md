@@ -36,4 +36,4 @@
 
 ---
 
-> “**Sudo make me a sandwich.**" 🥪
+> “Sudo make me a sandwich." 🥪
