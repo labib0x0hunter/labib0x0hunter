@@ -28,7 +28,7 @@
 
 ---
 
-## 📫 Let's Connect
+## 📫 More Information About Me
 
 <!-- Add your social links here (LinkedIn, Twitter, etc.) if you want! -->
 - > [Portfolio](https://labib0x0hunter.netlify.app/)
@@ -36,4 +36,4 @@
 
 ---
 
-> “Sudo make me a sandwich.” 🥪
+> **“Sudo make me a sandwich.”** 🥪
