@@ -14,6 +14,9 @@
 ### [Competitive-Programming](https://github.com/labib0x0hunter/Competitive-Programming)
 > My go-to templates and notes for competitive programming—speed, efficiency, and reliability.
 
+### [Programming-Language-Learning](https://github.com/labib0x0hunter/PLL-Notes)
+> My notes of learning programmings languages
+
 ### [system programming](https://github.com/labib0x0hunter/system-programming)
 > Exploring the depths of system-level development with C, C++, and Linux.
 
