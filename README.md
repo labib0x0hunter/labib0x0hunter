@@ -2,10 +2,10 @@
 
 🎓 **Student | Arch Linux User | Competitive Programmer | System Enthusiast**
 
+- 💡 **Curious Mind | Learner | Builder**
 - 🌟 Passionate about **DevOps**, **Linux**, and **Programming**
 - 🧑‍💻 Languages: **C**, **C++**, **Go**
 - 🏆 Active in competitive programming challenges
-- **Curious Mind | Learner | Builder**
 
 ---
 
