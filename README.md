@@ -15,7 +15,7 @@
 > My go-to templates and notes for competitive programming—speed, efficiency, and reliability.
 
 ### [Programming-Language-Learning](https://github.com/labib0x0hunter/PLL-Notes)
-> My notes of learning programmings languages
+> Notes and experiments while learning new programming languages.
 
 ### [system programming](https://github.com/labib0x0hunter/system-programming)
 > Exploring the depths of system-level development with C, C++, and Linux.
@@ -29,5 +29,3 @@
 - > [CodeCrafters](https://app.codecrafters.io/users/labib0x0hunter)
 
 ---
-
-> “Sudo make me a sandwich." 🥪
