@@ -14,6 +14,9 @@
 ### [Competitive-Programming](https://github.com/labib0x0hunter/Competitive-Programming)
 > My go-to templates and notes for competitive programming—speed, efficiency, and reliability.
 
+### [SnorlaxGo](https://github.com/labib0x0hunter/SnorlaxGo)
+> Deep dive into Go internals, including runtime, memory management, and core package clones.
+
 ### [Programming-Language-Learning](https://github.com/labib0x0hunter/PLL-Notes)
 > Notes and experiments while learning new programming languages.
 
