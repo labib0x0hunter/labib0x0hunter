@@ -17,7 +17,7 @@
 ### [SnorlaxGo](https://github.com/labib0x0hunter/SnorlaxGo)
 > Deep dive into Go internals, including runtime, memory management, and core package clones.
 
-### [Programming-Language-Learning](https://github.com/labib0x0hunter/PLL-Notes)
+### [EeveeNotes](https://github.com/labib0x0hunter/EeveeNotes)
 > Notes and experiments while learning new programming languages.
 
 ### [OnixFS](https://github.com/labib0x0hunter/OnixFS)
