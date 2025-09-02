@@ -1,11 +1,11 @@
 # Hello explorer, I'm **Labib Al Faisal**. 👋
 
-🎓 **Student | Competitive Programmer | System Dev Enthusiast | Exploit Enthusiast**
+🎓 **Student | Arch Linux User | Competitive Programmer | System Enthusiast**
 
 - 🌟 Passionate about **DevOps**, **Linux**, and **Programming**
 - 🧑‍💻 Languages: **C**, **C++**, **Go**
-- 🖥️ Proud Arch Linux user
 - 🏆 Active in competitive programming challenges
+- **Curious Mind | Learner | Builder**
 
 ---
 
@@ -19,15 +19,6 @@
 
 ### [system programming](https://github.com/labib0x0hunter/system-programming)
 > Exploring the depths of system-level development with C, C++, and Linux.
-
----
-
-## 🤖 Quick Facts
-
-- Favorite OS: **Arch Linux**
-- Editor: **Neo Vim**
-- Always **learning**, always **building!**
-- Curious **HACKER !!**
 
 ---
 
