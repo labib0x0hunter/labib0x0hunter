@@ -1,4 +1,4 @@
-# Hello explorer, I'm **Labib Al Faisal**. 👋
+# Hello Explorer, I'm **Labib Al Faisal**. 👋
 
 🎓 **Student | Arch Linux User | Competitive Programmer | System Enthusiast**
 
