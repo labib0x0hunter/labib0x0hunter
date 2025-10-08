@@ -1,6 +1,6 @@
 # Quick Facts
 
 - 💡 About : **Curious Mind | Learner | Builder | Breaker**
-- 🌟 Passion : **DevOps** | **Linux** | **Programming**
+- 🌟 Passion : **Programming** | **Linux** | **DevOps**
 - 🧑‍💻 Languages: **C** | **C++** | **Go**
 - 🏆 Active in competitive programming challenges
